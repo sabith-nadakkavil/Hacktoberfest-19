@@ -159,5 +159,5 @@
 ### Name: [Sabith-Nadakkavil](https://github.com/sabith-nadakkavil)
 
 - Place: Kottayam,Kerala, India
-- Bio: Student
+- Bio: Student.
 - GitHub: [Sabith-Nadakkavil](https://github.com/sabith-nadakkavil)
